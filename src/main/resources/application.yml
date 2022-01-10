@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:29092
+    consumer:
+      group-id: kafka-replier
+
+stub-file-location: "classpath:stub.json"
+reply-file-folder: "replies"
+
+

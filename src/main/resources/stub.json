@@ -1,0 +1,22 @@
+{
+  "stubs": [
+    {
+      "consumer": {
+        "topic": "test"
+      },
+      "producer": {
+        "topic": "new",
+        "data": "{\"producer\":\"automatic producer\"}"
+      }
+    },
+    {
+      "consumer": {
+        "topic": "test"
+      },
+      "producer": {
+        "topic": "new",
+        "data": "{\"producer\":\"automatic producer\"}"
+      }
+    }
+  ]
+}

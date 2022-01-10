@@ -1,0 +1,13 @@
+{
+  "id": "7aee1052-37f4-4131-ba10-64eef3028c98",
+  "auto": {
+    "id": "7aee1052-37f4-4131-ba10-64eef3028c98",
+    "farbe": "grün",
+    "marke": "LUSTIG",
+    "true": true,
+    "false": false,
+    "int": 1,
+    "float": 1.5
+  },
+  "example": "example"
+}

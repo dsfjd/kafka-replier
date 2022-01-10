@@ -1,0 +1,14 @@
+{
+  "stubs": [
+    {
+      "consumer": {
+        "jsonPathFilter": "$[?(@.test=='data')]",
+        "topic": "input"
+      },
+      "producer": {
+        "topic": "output",
+        "data": "{\"some\":\"message\"}"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "{{id}}",
+  "auto": {
+    "id": "{{id}}",
+    "farbe": "grün",
+    "marke": "{{peter.lustig.name}}",
+    "true": {{r}},
+    "false": {{f}},
+    "int": {{i}},
+    "float": {{fl}}
+  },
+  "example": "example"
+}

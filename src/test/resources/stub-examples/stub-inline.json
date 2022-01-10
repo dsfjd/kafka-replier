@@ -1,0 +1,13 @@
+{
+  "stubs": [
+    {
+      "consumer": {
+        "topic": "input"
+      },
+      "producer": {
+        "topic": "output",
+        "data": "{\"some\":\"message\"}"
+      }
+    }
+  ]
+}

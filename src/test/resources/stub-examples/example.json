@@ -1,0 +1,20 @@
+{
+  "stubs": [
+    {
+      "consumer": {
+        "topic": "a"
+      },
+      "producer": {
+        "topic": "b"
+      }
+    },
+    {
+      "consumer": {
+        "topic": "c"
+      },
+      "producer": {
+        "topic": "d"
+      }
+    }
+  ]
+}

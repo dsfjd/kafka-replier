@@ -1,0 +1,16 @@
+{
+  "stubs": [
+    {
+      "consumer": {
+        "topic": "input",
+        "jsonPathFilter": "jsonPathFilter"
+      },
+      "producer": {
+        "topic": "output",
+        "data": "data",
+        "replyFile": "replyFile",
+        "replyTemplate": "replyTemplate"
+      }
+    }
+  ]
+}
